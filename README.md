@@ -1,6 +1,6 @@
 # Commoning-Versteher README
 
-![[CommoningVersteher.png]]
+![image](https://github.com/bCommonsLAB/commonerVersteher-Eingabefenster/blob/main/CommoningVersteher.png)
 
 ## Einführung
 Stell dir vor, du hast eine Idee, die du schon lange mit anderen teilen wolltest, oder du fragst dich, ob dein tägliches Handeln wirklich im Sinne von Gemeinschaft und Nachhaltigkeit ist. Der "Commoning-Versteher" ist genau dafür da – ein Prototyp, der dir hilft, herauszufinden, wie gut deine Ideen und Aktivitäten zu den Prinzipien des Commonings passen.
