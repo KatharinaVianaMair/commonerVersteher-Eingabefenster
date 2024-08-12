@@ -73,6 +73,6 @@ Für weitere Informationen zu diesem und anderen Projekten schaue hier nach:
 Wenn du die Anwendung ausprobieren möchtest, mache das gerne hier:
 [Commoning Versteher](https://app.bcommonslab.org/commoningversteher/)
 
-Viel Erfolg und Spaß mit deinem Südtirol-Versteher-Projekt!
+Viel Erfolg und Spaß mit deinem Commoning-Versteher-Projekt!
 
 Cool!
