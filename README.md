@@ -1,8 +1,9 @@
 # Commoning-Versteher README
 
-
+![CommoningVersteher.png]
 
 ## Einführung
+Stell dir vor, du hast eine Idee, die du schon lange mit anderen teilen wolltest, oder du fragst dich, ob dein tägliches Handeln wirklich im Sinne von Gemeinschaft und Nachhaltigkeit ist. Der "Commoning-Versteher" ist genau dafür da – ein Prototyp, der dir hilft, herauszufinden, wie gut deine Ideen und Aktivitäten zu den Prinzipien des Commonings passen.
 
 Willkommen zu deinem Commoning-Versteher-Projekt! Diese Anwendung ist ein Speech-to-Text Bot mit Reflektionsfunktion für Gedanken über Commoning. Diese Anleitung erklärt dir Schritt für Schritt, wie du deinen Python-Server startest und sicherstellst, dass alle Dateien im selben Verzeichnis liegen.
 
